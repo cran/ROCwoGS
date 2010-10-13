@@ -1,0 +1,8 @@
+714803df02e842c936322ede2377308d *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+c9a7e6c3c66d96bff209c850b9e5e1ed *R/NPROCwoGS.R
+12ea7f842300d78cff33aa8dd1f1a116 *R/ROCwoGS-internal.R
+caf769342e9136e0e486782113764d71 *data/score.rda
+00a24920cbb49ca6a896c16b0f5199b8 *man/NPROCwoGS.Rd
+7a929df2b90ebdd9a8fcbcaaedcf1ffa *man/ROCwoGS-package.Rd
+d09c3901ab020b437b140947abfc8e51 *man/score.Rd
